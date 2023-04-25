@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+@*Slider Alanı Partial*@
+@await Component.InvokeAsync("_SliderPartial")
+
+@*Popüler Rotalar Partial*@
+@await Component.InvokeAsync("_PopularDestinations")
+
+@*İstatistik Partial*@
+@await Component.InvokeAsync("_Statistics")
+
+@*Öne Çıkanlar Partial*@
+@await Component.InvokeAsync("_Feature")
+
+@*SubAbout Partial*@
+@await Component.InvokeAsync("_SubAbout")
+
+@*Testimonial Yani Müşteri Yorumları Partial*@
+@await Component.InvokeAsync("_Testimonial")
+

@@ -1,0 +1,3 @@
+2023-04-09T23:44:43.0937986+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2023-04-09T23:44:43.0981344+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2023-04-09T23:44:43.0982097+03:00  [INF] Content root path: "C:\Users\user\Desktop\TraversalCamp\TraversalCoreProje\TraversalCoreProje" (b5d60022)
