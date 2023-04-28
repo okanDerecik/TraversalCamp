@@ -11844,11 +11844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
       "projectName": "TraversalCoreProje",
-      "projectPath": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\TraversalCoreProje\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\TraversalCoreProje\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11865,14 +11865,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

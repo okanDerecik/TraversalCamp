@@ -6967,11 +6967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\TraversalCamp\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\TraversalCampProject\\TraversalCamp\\TraversalCoreProje\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
