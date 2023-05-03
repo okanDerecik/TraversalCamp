@@ -592,3 +592,6 @@ C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\Trav
 C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\ref\TraversalCoreProje.dll
 C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Guide\Index.cshtml.g.cs
 C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\UpdateRole.cshtml.g.cs
