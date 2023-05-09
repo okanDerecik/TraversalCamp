@@ -327,6 +327,11 @@
         "runtime": {
           "TraversalCoreProje.dll": {}
         },
+        "resources": {
+          "en/TraversalCoreProje.resources.dll": {
+            "locale": "en"
+          }
+        },
         "compile": {
           "TraversalCoreProje.dll": {}
         }

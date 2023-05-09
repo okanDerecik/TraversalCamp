@@ -65,5 +65,10 @@ namespace TraversalCoreProje.Areas.Member.Controllers
             reservationManager.TAdd(p);
             return RedirectToAction("MyCurrentReservation");
         }
+
+        public IActionResult Test()
+        {
+            return View();
+        }
     }
 }
