@@ -628,3 +628,9 @@ C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\Trav
 C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\bin\Debug\net5.0\tr\TraversalCoreProje.resources.dll
 C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.Resource.Views.Information.Index.tr.resources
 C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\tr\TraversalCoreProje.resources.dll
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.Resource.Views.Shared._MemberLayout.en.resources
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.Resource.Views.Shared._MemberLayout.tr.resources
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.Resource.Views.Shared._MemberLayout.fr.resources
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\GetCitiesSearchByName.cshtml.g.cs
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\PasswordChange\ForgetPassword.cshtml.g.cs
+C:\Users\user\Desktop\TraversalCampProject\TraversalCamp\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\PasswordChange\ResetPassword.cshtml.g.cs
